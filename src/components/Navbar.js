@@ -8,7 +8,7 @@ const Navbar = () => {
     <nav className='w-screen h-[80px] z-10 bg-zinc-200 fixed drop-shadow-lg'>
       <div className='flex items-center justify-between w-full h-full px-10'>
         <div className='flex items-center'>
-          <h1 className='mr-4 text-3xl font-bold sm:text-4xl'>HomePage</h1>
+          <h1 className='mr-4 text-3xl font-bold sm:text-4xl'>Discord</h1>
           <ul className='hidden md:flex'>
             <li>Home</li>
             <li>About</li>
